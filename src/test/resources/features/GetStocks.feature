@@ -3,8 +3,8 @@ Feature: Obtain stocks values
 
   Scenario: User calls the API to obtain stocks values
     Given a healthy API service
-    When a user performs a GET request to /fin/stock
+    When a user performs a GET request to stocks endpoint
     Then the status code is 200
-#    And response body includes the following items
-#    | symbol | ABC.YZ            |
-#    | name   | Some fake Company |
+    And response body includes the following items
+    | symbol | name              |
+    | ABC.YZ | Some fake Company |

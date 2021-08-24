@@ -5,7 +5,8 @@ This application uses a combination of various test frameworks to perform a simp
 Technologies used:
 * RestAssured for API Testing
 * Cucumber for BDD feature file implementation
-* ... for test report
+* Cucumber JSON and HTML local report result
+* 
 
 ## How to run
 
