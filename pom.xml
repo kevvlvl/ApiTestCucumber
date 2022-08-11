@@ -11,7 +11,7 @@
 	<properties>
 		<restassured.version>4.4.0</restassured.version>
 		<hamcrest.version>2.2</hamcrest.version>
-		<cucumber.version>6.11.0</cucumber.version>
+		<cucumber.version>7.6.0</cucumber.version>
 		<jackson.version>2.13.0-rc1</jackson.version>
 		<junit.version>4.13.2</junit.version>
 	</properties>
