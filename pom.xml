@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-java</artifactId>
-			<version>0-feature-TICK123-newlib-dev</version>
+			<version>0.0.1-feature-TICK123-newlib-dev</version>
 			<scope>test</scope>
 		</dependency>
 
